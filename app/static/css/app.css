@@ -1,3 +1,20 @@
 body {
     padding-top: 5rem;
 }
+
+#red {
+    color: red;
+}
+
+#btnSend {
+    border-radius: 5px;
+    background-color: rgb(16, 137, 218);
+    color: white;
+    width: 80px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.flashes {
+    color: limegreen;
+}
